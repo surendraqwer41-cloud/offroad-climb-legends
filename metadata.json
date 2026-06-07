@@ -1,0 +1,6 @@
+{
+  "name": "Mountain Rider X",
+  "description": "An addictive 2D physics-based hill climbing racing game with multiple vehicles, upgrades, achievements, and procedurally generated tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
